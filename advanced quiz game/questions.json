@@ -1,0 +1,104 @@
+{
+    "question_list": [
+        {
+            "question": "What is the capital of France?",
+            "options": ["Berlin", "Madrid", "Paris", "Rome"],
+            "answer": "Paris"
+        },
+        {
+            "question": "Which planet is known as the Red Planet?",
+            "options": ["Earth", "Mars", "Jupiter", "Venus"],
+            "answer": "Mars"
+        },
+        {
+            "question": "Who wrote the play 'Romeo and Juliet'?",
+            "options": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Jane Austen"],
+            "answer": "William Shakespeare"
+        },
+        {
+            "question": "What is the chemical symbol for water?",
+            "options": ["H2O", "O2", "CO2", "NaCl"],
+            "answer": "H2O"
+        },
+        {
+            "question": "How many continents are there on Earth?",
+            "options": ["5", "6", "7", "8"],
+            "answer": "7"
+        },
+        {
+            "question": "What is the smallest prime number?",
+            "options": ["0", "1", "2", "3"],
+            "answer": "2"
+        },
+        {
+            "question": "Which element has the atomic number 1?",
+            "options": ["Helium", "Oxygen", "Hydrogen", "Carbon"],
+            "answer": "Hydrogen"
+        },
+        {
+            "question": "In which year did the Titanic sink?",
+            "options": ["1912", "1905", "1898", "1920"],
+            "answer": "1912"
+        },
+        {
+            "question": "Which country is home to the kangaroo?",
+            "options": ["India", "Australia", "South Africa", "Brazil"],
+            "answer": "Australia"
+        },
+        {
+            "question": "What is the largest ocean on Earth?",
+            "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+            "answer": "Pacific Ocean"
+        },
+        {
+            "question": "What is the square root of 144?",
+            "options": ["10", "11", "12", "13"],
+            "answer": "12"
+        },
+        {
+            "question": "Which gas do plants absorb from the atmosphere?",
+            "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+            "answer": "Carbon Dioxide"
+        },
+        {
+            "question": "Who painted the Mona Lisa?",
+            "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+            "answer": "Leonardo da Vinci"
+        },
+        {
+            "question": "What is the longest river in the world?",
+            "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+            "answer": "Nile River"
+        },
+        {
+            "question": "Which country hosted the 2016 Summer Olympics?",
+            "options": ["China", "Brazil", "UK", "Japan"],
+            "answer": "Brazil"
+        },
+        {
+            "question": "What is the hardest natural substance on Earth?",
+            "options": ["Gold", "Iron", "Diamond", "Granite"],
+            "answer": "Diamond"
+        },
+        {
+            "question": "How many colors are there in a rainbow?",
+            "options": ["5", "6", "7", "8"],
+            "answer": "7"
+        },
+        {
+            "question": "What is the largest planet in our solar system?",
+            "options": ["Earth", "Saturn", "Jupiter", "Mars"],
+            "answer": "Jupiter"
+        },
+        {
+            "question": "Who invented the telephone?",
+            "options": ["Thomas Edison", "Nikola Tesla", "Alexander Graham Bell", "Isaac Newton"],
+            "answer": "Alexander Graham Bell"
+        },
+        {
+            "question": "Which organ in the human body is responsible for pumping blood?",
+            "options": ["Brain", "Liver", "Lungs", "Heart"],
+            "answer": "Heart"
+        }
+    ]
+}
